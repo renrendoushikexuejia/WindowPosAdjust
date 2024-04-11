@@ -1,0 +1,2 @@
+# WindowPosAdjust
+调整窗口位置的软件，有多种窗口摆放方式。对于pyautogui这种需要精确点击坐标的软件很有用
